@@ -1,0 +1,28 @@
+/*
+Theme Name: KamThemes
+Theme URI: http:christianadofo.com
+Version: 1.0 
+*/
+
+body {
+	background:#FFF;
+	font: Arial, Helvetica, sans-serif;
+}
+
+
+#container {
+	width:800px;
+	padding: 20px;
+	margin:auto;
+	background: #FFF;
+	border-radius: 14px;
+}
+
+footer {
+	width: 800px;
+	margin: 0 auto;
+	background: #000;
+	color: #FFF;
+	padding: 20px;
+}
+	
